@@ -1,0 +1,11 @@
+{
+  "id": "14380759",
+  "cui": "14380759",
+  "company": "EXCLUSIVE GARDEN SRL",
+  "brand": "Exclusive Garden",
+  "status": "activ",
+  "location": ["Poroschia"],
+  "website": [],
+  "career": ["https://mediere.anofm.ro/app/module/mediere/jobs"],
+  "scraperFile": "https://github.com/peviitor-scrapers/exclusive-garden-srl-python-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}
