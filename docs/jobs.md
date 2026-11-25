@@ -7,9 +7,9 @@
 | CIF | 14380759 |
 | Brand | Exclusive Garden |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-24 |
+| LastScraped | 2026-11-25 |
 
-## Jobs (3)
+## Jobs (4)
 
 ### ÎNGRIJITOR SPATII VERZI
 
@@ -17,6 +17,12 @@
 - **Location**: POROSCHIA
 - **Work Mode**: on-site
 - **Tags**: agricultura-zootehnie, pclm, cu-norma-intreaga, cu-durata-nedeterminata, sediu, gimnazial-scoala-generala, fara-experienta-0-ani
+- **Status**: scraped
+
+### Ingrijitor Spatii Verzi
+
+- **URL**: [https://www.jobrapid.ro/locuri-de-munca/ingrijitor-spatii-verzi-in-alexandria-1733394.html](https://www.jobrapid.ro/locuri-de-munca/ingrijitor-spatii-verzi-in-alexandria-1733394.html)
+- **Location**: Alexandria
 - **Status**: scraped
 
 ### ÎNGRIJITOR SPATII VERZI
@@ -32,4 +38,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-24T16:39:20Z_
+_Generated at 2026-11-25T16:22:01Z_
