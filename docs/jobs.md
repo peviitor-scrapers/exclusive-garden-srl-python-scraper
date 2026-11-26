@@ -7,7 +7,7 @@
 | CIF | 14380759 |
 | Brand | Exclusive Garden |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-25 |
+| LastScraped | 2026-11-26 |
 
 ## Jobs (4)
 
@@ -38,4 +38,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-25T16:22:01Z_
+_Generated at 2026-11-26T15:56:05Z_
